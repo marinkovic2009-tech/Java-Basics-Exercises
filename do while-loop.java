@@ -8,7 +8,7 @@ class do_while_loop {
 
             multiplier++;
         } while (multiplier <= 10);
-        
+
         }
 
     }
